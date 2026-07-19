@@ -9,7 +9,7 @@ For my materials I used a
 - Lykus HC-3010 Case
   - I used this case because it represents a pelican case, but with half the price, it has protective foam inside with a rugged case outside
 - RasTech Raspberry Pi 5 Kit 8GB RAM
- - The main reason I chose this specific product is because it comes with a case, heatsink, and fan, perfect for the foam insulation while    competing with over brands
+   - The main reason I chose this specific product is because it comes with a case, heatsink, and fan, perfect for the foam insulation while    competing with over brands
 - NOBIS Portable Charger
   - This portable charger is sleek and slim, perfect to but under the box and forget, with the max output being 45W, it perfectly can power    the raspbery pi.
 - 5V 5A PD Step Down Power Converter Board
