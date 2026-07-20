@@ -2,9 +2,8 @@
 
 <h1>Why I made this</h1>
 
-Primarily I was always interested in Cybersecurity, Privacy, and Ethical Hacking, Thats when Ive seen multiple people creating what is called a "Cyberdeck" a secure computer personally made for privacy. But to actually run any ethical hacking or programming in general I would require a raspbery pi 5, but since RAM prices skyrocketed everthing is unaffordable. Thats when I found out about Hack Clubs Macondo(https://macondo.hackclub.com), which can fund my project up to 400 USD, thats when I decided to finally make the Cyberdeck I wanted. 
+Primarily I was always interested in Cybersecurity, Privacy, and Ethical Hacking, Thats when Ive seen multiple people creating what is called a "Cyberdeck" a secure computer personally made for privacy. But to actually run any ethical hacking or programming in general I would require a raspbery pi 5, but since RAM prices skyrocketed everthing is unaffordable. Thats when I found out about Hack Clubs Macondo(https://macondo.hackclub.com), which can fund my project up to 400 USD depending on your project Level, thats when I decided to finally make the Cyberdeck I wanted. 
 
-https://macondo.hackclub.com
 
 <h1>Bill of Materials</h1>
 
@@ -36,3 +35,13 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 - 7 Inch Screen, A computer isnt a computer without a screen is it? But I chose this model because its the perfect size for the case, HDMI, and in general a mid tier screen, I dont need a high quality screen for a Cyberdeck.
 - Keyboard, The slim, lightweight, and bluetooth capabilities is why it was chosen, the trackpad is perfect since the screen isnt touch screen, this is pretty self explanitory.
 
+<h1>Credits</h1>
+Google Gemini AI, Which was used for calculating if Components are compatible and within the case paramteres.
+
+<h1>Amazon Links</h1>
+[Lykus HC-3010 Case](https://www.amazon.com/gp/product/B07YHL5SNG/ref=ox_sc_act_title_6?smid=AKGUHPY0M58AR&th=1)
+[RasTech Raspberry Pi 5 Kit 8GB RAM](https://www.amazon.com/gp/product/B0DNF5JWB4/ref=ox_sc_act_title_5?smid=A8GZTQ9P9SC8J&psc=1)
+[NOBIS Portable Charger](https://www.amazon.com/gp/product/B0D63HF7Z4/ref=ox_sc_act_title_4?smid=ASFCMBPYD9KJ&th=1)
+[5V 5A PD Step Down Power Converter Board](https://www.amazon.com/gp/product/B0FR8VRWFJ/ref=ox_sc_act_title_3?smid=AJR9PS1P25UVO&psc=1)
+[HAMTYSAN Raspberry Pi Screen 7 Inch](https://www.amazon.com/gp/product/B0BGXB2Y67/ref=ox_sc_act_title_1?smid=A2LSWOFIPV499R&psc=1)
+[Tri-Foldable Bluetooth Keyboard](https://www.amazon.com/gp/product/B0D9V8YFMN/ref=ox_sc_act_title_2?smid=A2ZZ91KWEPZ8OF&psc=1)
