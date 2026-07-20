@@ -2,9 +2,8 @@
 
 <h1>Why I made this</h1>
 
-Primarily I was always interested in Cybersecurity, Privacy, and Ethical Hacking, Thats when Ive seen multiple people creating what is called a "Cyberdeck" a secure computer personally made for privacy. But to actually run any ethical hacking or programming in general I would require a raspbery pi 5, but since RAM prices skyrocketed everthing is unaffordable. Thats when I found out about Hack Clubs Macondo, which can fund my project up to 400 USD, thats when I decided to finally make the Cyberdeck I wanted. 
+Primarily I was always interested in Cybersecurity, Privacy, and Ethical Hacking, Thats when Ive seen multiple people creating what is called a "Cyberdeck" a secure computer personally made for privacy. But to actually run any ethical hacking or programming in general I would require a raspbery pi 5, but since RAM prices skyrocketed everthing is unaffordable. Thats when I found out about Hack Clubs Macondo(https://macondo.hackclub.com), which can fund my project up to 400 USD, thats when I decided to finally make the Cyberdeck I wanted. 
 
-<h4>Credits</h4>
 https://macondo.hackclub.com
 
 <h1>Bill of Materials</h1>
