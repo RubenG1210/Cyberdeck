@@ -1,3 +1,4 @@
+
 # Cyberdeck
 
 <h1>Why I made this</h1>
@@ -34,6 +35,9 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 - Step Down Power Convertor, I cant simply connect the charger to the Pi, 45W is way more than the simple 25W that the Pi is asking for, this convertor can ask the Pi how much Watts it wants and delivers it in realtime, with a plug and play system
 - 7 Inch Screen, A computer isnt a computer without a screen is it? But I chose this model because its the perfect size for the case, HDMI, and in general a mid tier screen, I dont need a high quality screen for a Cyberdeck.
 - Keyboard, The slim, lightweight, and bluetooth capabilities is why it was chosen, the trackpad is perfect since the screen isnt touch screen, this is pretty self explanitory.
+
+<h1>Layout brief overview</h1>
+<img width="1920" height="1080" alt="layout" src="https://github.com/user-attachments/assets/a6d51e89-d3ae-49f4-932a-5a255789a8df" />
 
 <h1>Credits</h1>
 Google Gemini AI, Which was used for calculating if Components are compatible and within the case paramteres.
