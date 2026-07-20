@@ -16,8 +16,8 @@ For my materials I used a
   - The portable charger will output as much energy as it desires, but the raspbery pi wants a certain amount or you could burn out the      actual system, this converter board allows through and regulates enough power that the raspberry pi asks for
 - HAMTYSAN Raspberry Pi Screen 7 Inch
   - I was originally planning to buy the Hosyond 7 Inch Touchscreen, but that display uses MIPI DSI, which provides very low quality   output, contrast to the HDMI port the HAMTYSAN has.
-  - Tri-Foldable Bluetooth Keyboard
-    - Believe it or not, the keyboard was one of the hardest choices i had to make, due to my screen not being touchscreen, i needed some   sort of clicking trackpad while keeping the keyboard and saving space. Thats when I found this Keyboard, Which includes a trackpad and     keyboard in one, and can wiresly connect when expanded.
+- Tri-Foldable Bluetooth Keyboard
+  - Believe it or not, the keyboard was one of the hardest choices i had to make, due to my screen not being touchscreen, i needed some   sort of clicking trackpad while keeping the keyboard and saving space. Thats when I found this Keyboard, Which includes a trackpad and     keyboard in one, and can wiresly connect when expanded.
  - Lastly Micro SD Card
     - This is self explanitory, a raspbery pi cannot run without storage.
       
