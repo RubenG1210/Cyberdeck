@@ -39,6 +39,7 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 Google Gemini AI, Which was used for calculating if Components are compatible and within the case paramteres.
 
 <h1>Amazon Links</h1>
+
 * [Lykus HC-3010 Case](https://www.amazon.com/gp/product/B07YHL5SNG/ref=ox_sc_act_title_6?smid=AKGUHPY0M58AR&th=1)
 
 * [RasTech Raspberry Pi 5 Kit 8GB RAM](https://www.amazon.com/gp/product/B0DNF5JWB4/ref=ox_sc_act_title_5?smid=A8GZTQ9P9SC8J&psc=1)
