@@ -31,7 +31,7 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 - The case is a Waterproof, rugged, with pickable foam interor, quite literally perfect for electronics, with the protective inside and rugged outside, not only that, but the look is also nice.
 - The Rastech Kit, Like I stated, I need a Usable Computer, the Raspbery pi 5 8GB of ram is perfect for this, not only that, it comes with a heatsink, fan, and protective case, which is optimized for the cyberdeck im building, The kit includes what I need, others come with unnessary accessories which would be useless to me.
 - NOBIS Portable Charger, I wanted a strong lasting powersource, but not expensive as I said, The portable charger can output 45W, more than is needed, its sleek, and the best costing charger for its capacity and output.
-- Step Down Power Convertor, I cant simply connect the charger to the Pi, 45W is way more than the simple 5W that the Pi is asking for, this convertor can ask the Pi how much Watts it wants and delivers it in realtime, with a plug and play system
+- Step Down Power Convertor, I cant simply connect the charger to the Pi, 45W is way more than the simple 25W that the Pi is asking for, this convertor can ask the Pi how much Watts it wants and delivers it in realtime, with a plug and play system
 - 7 Inch Screen, A computer isnt a computer without a screen is it? But I chose this model because its the perfect size for the case, HDMI, and in general a mid tier screen, I dont need a high quality screen for a Cyberdeck.
 - Keyboard, The slim, lightweight, and bluetooth capabilities is why it was chosen, the trackpad is perfect since the screen isnt touch screen, this is pretty self explanitory.
 
