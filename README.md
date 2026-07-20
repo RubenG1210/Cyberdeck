@@ -39,9 +39,9 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 Google Gemini AI, Which was used for calculating if Components are compatible and within the case paramteres.
 
 <h1>Amazon Links</h1>
-[Lykus HC-3010 Case](https://www.amazon.com/gp/product/B07YHL5SNG/ref=ox_sc_act_title_6?smid=AKGUHPY0M58AR&th=1)
-[RasTech Raspberry Pi 5 Kit 8GB RAM](https://www.amazon.com/gp/product/B0DNF5JWB4/ref=ox_sc_act_title_5?smid=A8GZTQ9P9SC8J&psc=1)
-[NOBIS Portable Charger](https://www.amazon.com/gp/product/B0D63HF7Z4/ref=ox_sc_act_title_4?smid=ASFCMBPYD9KJ&th=1)
-[5V 5A PD Step Down Power Converter Board](https://www.amazon.com/gp/product/B0FR8VRWFJ/ref=ox_sc_act_title_3?smid=AJR9PS1P25UVO&psc=1)
-[HAMTYSAN Raspberry Pi Screen 7 Inch](https://www.amazon.com/gp/product/B0BGXB2Y67/ref=ox_sc_act_title_1?smid=A2LSWOFIPV499R&psc=1)
-[Tri-Foldable Bluetooth Keyboard](https://www.amazon.com/gp/product/B0D9V8YFMN/ref=ox_sc_act_title_2?smid=A2ZZ91KWEPZ8OF&psc=1)
+* [Lykus HC-3010 Case](https://www.amazon.com/gp/product/B07YHL5SNG/ref=ox_sc_act_title_6?smid=AKGUHPY0M58AR&th=1)
+* [RasTech Raspberry Pi 5 Kit 8GB RAM](https://www.amazon.com/gp/product/B0DNF5JWB4/ref=ox_sc_act_title_5?smid=A8GZTQ9P9SC8J&psc=1)
+* [NOBIS Portable Charger](https://www.amazon.com/gp/product/B0D63HF7Z4/ref=ox_sc_act_title_4?smid=ASFCMBPYD9KJ&th=1)
+* [5V 5A PD Step Down Power Converter Board](https://www.amazon.com/gp/product/B0FR8VRWFJ/ref=ox_sc_act_title_3?smid=AJR9PS1P25UVO&psc=1)
+* [HAMTYSAN Raspberry Pi Screen 7 Inch](https://www.amazon.com/gp/product/B0BGXB2Y67/ref=ox_sc_act_title_1?smid=A2LSWOFIPV499R&psc=1)
+* [Tri-Foldable Bluetooth Keyboard](https://www.amazon.com/gp/product/B0D9V8YFMN/ref=ox_sc_act_title_2?smid=A2ZZ91KWEPZ8OF&psc=1)
