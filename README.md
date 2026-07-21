@@ -24,7 +24,8 @@ For my materials I used a
   - Believe it or not, the keyboard was one of the hardest choices i had to make, due to my screen not being touchscreen, i needed some   sort of clicking trackpad while keeping the keyboard and saving space. Thats when I found this Keyboard, Which includes a trackpad and     keyboard in one, and can wiresly connect when expanded.
 
 <h2>Total Bill Cost</h2>
-Total = $390.93/391
+Total = $355.94
+Grand Total Taxes & Shipping = $399.52
       
 <h1>Why did I choose these Items?</h1>
 
