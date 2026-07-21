@@ -43,7 +43,7 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 
 <h1>Layout brief overview</h1>
 
-<h2>I had to ensure that the 7 Inch screen would fit on the case, This was me double checking.</h2>
+<h5>I had to ensure that the 7 Inch screen would fit on the case, This was me double checking.</5>
 
 <img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 32 28 PM" src="https://github.com/user-attachments/assets/f605b4d8-9c58-409b-8a23-9f39a207e883" />
 
@@ -53,7 +53,7 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 <img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 33 31 PM" src="https://github.com/user-attachments/assets/3ea590a9-636f-4b68-8804-8f3359d66835" />
 <img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 33 34 PM" src="https://github.com/user-attachments/assets/3771d4d4-2765-4e9f-ba7e-f70173bc03a2" />
 
-<h6>I had to estimate the Size of the Power regulator to roughly the size of a Raspberry Pi, also the folded keyboard to the a more expanded size of the battery due to measurements not being avalible, In addition, I majorly scaled the walls down by atleast 15 MM to over estimate and ensure that the box can correct fit all of these components. Currently everything Is on the bottom, but in reality the case has pluckable foam that I will use</h6>
+<h5>I had to estimate the Size of the Power regulator to roughly the size of a Raspberry Pi, also the folded keyboard to the a more expanded size of the battery due to measurements not being avalible, In addition, I majorly scaled the walls down by atleast 15 MM to over estimate and ensure that the box can correct fit all of these components. Currently everything Is on the bottom, but in reality the case has pluckable foam that I will use</h5>
 
 
 <h1>Credits</h1>
