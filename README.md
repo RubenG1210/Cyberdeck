@@ -28,6 +28,8 @@ For my materials I used a
 - Total = $355.94
 
 - Grand Total Taxes & Shipping = $399.52
+
+<h4>I will also be adding a ESP32 for the sniffing ability, Since I already have one this will not be added to the bill list</h4>
       
 <h1>Why did I choose these Items?</h1>
 
