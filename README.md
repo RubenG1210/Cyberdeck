@@ -49,7 +49,8 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 
 <h2>This is a model of the bottom Base</h2>
 
-<img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 33 25 PM" src="https://github.com/user-attachments/assets/e3351af7-b547-470c-b467-7e5cf0a0669c" />
+<img width="2940" height="1912" alt="Battery" src="https://github.com/user-attachments/assets/085274f2-78b8-478b-8b5c-f3d28b4111d4" />
+
 <img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 33 31 PM" src="https://github.com/user-attachments/assets/3ea590a9-636f-4b68-8804-8f3359d66835" />
 <img width="1470" height="956" alt="Screenshot 2026-07-21 at 4 33 34 PM" src="https://github.com/user-attachments/assets/3771d4d4-2765-4e9f-ba7e-f70173bc03a2" />
 
