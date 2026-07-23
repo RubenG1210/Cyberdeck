@@ -56,6 +56,7 @@ I wanted to optimize my Cyberdeck to actually be useful, instead of the regular 
 
 <h5>I had to estimate the Size of the Power regulator to roughly the size of a Raspberry Pi, also the folded keyboard to the a more expanded size of the battery due to measurements not being avalible, In addition, I majorly scaled the walls down by atleast 15 MM to over estimate and ensure that the box can correct fit all of these components. Currently everything Is on the bottom, but in reality the case has pluckable foam that I will use</h5>
 
+<h4>These 3D Models are only a simple representation and not the finished product</h4>
 
 <h1>This is a basic Diagram of how everything will be connected and attached</h1>
 
